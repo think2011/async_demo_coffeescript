@@ -13,5 +13,4 @@
 > ##### 技术： async + coffeescript
 > ##### 时间： 2014年7月
 > ##### 参考： 感谢 [粉丝日志](http://blog.fens.me/nodejs-async/) 的教程
-> ##### 源码： [async_demo_coffeescript](https://github.com/think2011/async_demo_coffeescript)
 > ##### 博客： [think2011](http://think2011.github.io/)
