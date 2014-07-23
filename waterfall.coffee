@@ -46,4 +46,4 @@ async.waterfall
 #35.386>1.2 result:
 #
 #34.979>1.3 err:[Error: First argument to waterfall must be an array of functions]
-#34.984>1.3 result:
+#34.984>1.3 result:　
