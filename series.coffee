@@ -76,15 +76,15 @@ async.series
 
 #07.238>1.1 err:
 #07.238>1.1 results:[ 11, 21, 31 ]
-#
+
 #07.239>1.2 err:出错了
 #07.239>1.2 results:[ 11, 21, undefined ]
-#
+
 #07.841>1.3 err:
 #07.841>1.3 results:[ 10, undefined, null, {}, [], 'abc' ]
-#
+
 #07.641>1.4 err:
 #07.641>1.4 results:{ a: 10, b: 20, c: 30, d: 40, e: 50 }
-#
+
 #07.032>1.5 err:出错了
 #07.037>1.5 results:{ a: 10, b: undefined }
