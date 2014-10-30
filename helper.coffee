@@ -40,4 +40,3 @@ exports.wait = (mils) ->
   now = new Date
   return while new Date - now <= mils
 
-
